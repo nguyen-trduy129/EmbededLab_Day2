@@ -35,3 +35,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 D:\University\Embeded 
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-11-15 09:14:42.855
 !MESSAGE Indexed 'Bai4_I2C_Realtimeclock' (38 sources, 119 headers) in 6.11 sec: 10,557 declarations; 59,041 references; 6 unresolved inclusions; 337 syntax errors; 1,663 unresolved names (2.3%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-11-15 10:27:36.987
+!MESSAGE Indexed 'Bai3_Lcd_button' (33 sources, 115 headers) in 5.37 sec: 9,752 declarations; 49,688 references; 2 unresolved inclusions; 42 syntax errors; 147 unresolved names (0.25%)
